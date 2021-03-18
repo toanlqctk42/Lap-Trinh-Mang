@@ -1,0 +1,7 @@
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\bin\Debug\BT2_Lab01.exe.config
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\bin\Debug\BT2_Lab01.exe
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\bin\Debug\BT2_Lab01.pdb
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\obj\Debug\BT2_Lab01.csprojAssemblyReference.cache
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\obj\Debug\BT2_Lab01.csproj.CoreCompileInputs.cache
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\obj\Debug\BT2_Lab01.exe
+E:\test\Lập Trình Mạng\BT2_Lab01\BT2_Lab01\obj\Debug\BT2_Lab01.pdb
