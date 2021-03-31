@@ -1,0 +1,20 @@
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\bin\Debug\server.exe.config
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\bin\Debug\server.exe
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\bin\Debug\server.pdb
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.csprojAssemblyReference.cache
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.frmserver.resources
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.Properties.Resources.resources
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.csproj.GenerateResource.cache
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.exe
+G:\test\Lập Trình Mạng\1812856_LeQuocToan_Lab3,1\server\server\obj\Debug\server.pdb
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\bin\Debug\server.exe.config
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\bin\Debug\server.exe
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\bin\Debug\server.pdb
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.csprojAssemblyReference.cache
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.frmserver.resources
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.Properties.Resources.resources
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.csproj.GenerateResource.cache
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.exe
+G:\test\Lap-Trinh-Mang\1812856_LeQuocToan_Lab04\server\server\obj\Debug\server.pdb

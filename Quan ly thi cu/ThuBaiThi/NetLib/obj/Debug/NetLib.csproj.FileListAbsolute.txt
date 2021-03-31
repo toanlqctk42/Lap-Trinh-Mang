@@ -1,0 +1,6 @@
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\bin\Debug\NetLib.dll
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\bin\Debug\NetLib.pdb
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\obj\Debug\NetLib.csprojAssemblyReference.cache
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\obj\Debug\NetLib.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\obj\Debug\NetLib.dll
+C:\Users\Quoc Toan\Downloads\Compressed\Quan ly thi cu\ThuBaiThi\NetLib\obj\Debug\NetLib.pdb
