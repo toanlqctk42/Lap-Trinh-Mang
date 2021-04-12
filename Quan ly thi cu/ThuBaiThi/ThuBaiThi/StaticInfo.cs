@@ -5,12 +5,11 @@ using System.Collections;
 
 namespace ThuBaiThi
 {
-    class StaticInfo
+    public class StaticInfo
     {
         public static string FirstIP = "";
         public static string LastIP = "";
         public static string SubnetMask = "";
-        public static string Path = "";
 
         public static ArrayList ListDeThi = new ArrayList();
 

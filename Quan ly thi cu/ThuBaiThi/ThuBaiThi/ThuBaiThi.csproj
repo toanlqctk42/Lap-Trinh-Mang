@@ -53,18 +53,14 @@
     <Compile Include="FrmSetIP.Designer.cs">
       <DependentUpon>FrmSetIP.cs</DependentUpon>
     </Compile>
-    <Compile Include="MangMayTinh.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="MangMayTinh.Designer.cs">
-      <DependentUpon>MangMayTinh.cs</DependentUpon>
-    </Compile>
     <Compile Include="MayTinh.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="MayTinh.Designer.cs">
       <DependentUpon>MayTinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="Maytinhinfo.cs" />
+    <Compile Include="MaytinhInfoManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmServer.resx">
@@ -75,10 +71,6 @@
       <SubType>Designer</SubType>
       <DependentUpon>FrmSetIP.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MangMayTinh.resx">
-      <DependentUpon>MangMayTinh.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
     <EmbeddedResource Include="MayTinh.resx">
       <DependentUpon>MayTinh.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -86,17 +78,16 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -110,6 +101,18 @@
       <Project>{E62C6601-50D3-4B92-8CFF-A0571222C3EA}</Project>
       <Name>NetLib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\desktopchapnhan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\desktoperror.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\desktopnomar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\destopundefine.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
