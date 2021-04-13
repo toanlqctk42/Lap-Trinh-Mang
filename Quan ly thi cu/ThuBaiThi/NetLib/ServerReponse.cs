@@ -10,11 +10,13 @@ namespace NetLib
     [Serializable]
     public enum ServerResponseType
     {
-        SendFile,
-        SendList,
-        SendStudent,
-        SendString,
         SendPcName,
+        SendMessage,
+        SendDSCSDL,
+        SendFile,
+        SendListStudentExcel,
+        SendStudent,
+        PhatDe,
         DisconnectAll,
         BeginExam,
         FinishExam,

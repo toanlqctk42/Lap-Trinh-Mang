@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 
@@ -21,6 +22,12 @@ namespace NetLib
             MSSV = mssv;
             FirstName = firstName;
             LastName = lastName;
+        }
+        public Student(DataRow row)
+        {
+            MSSV = row["MSSV"].ToString();
+            LastName = row["HoDem"].ToString();
+            FirstName = row["Ten"].ToString();
         }
     }
 }
